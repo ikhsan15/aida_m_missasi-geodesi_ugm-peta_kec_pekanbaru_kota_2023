@@ -1,0 +1,29 @@
+.popup{
+  margin-top: 10vh;
+}
+
+.popup figure {
+  width: 1000px;
+  height: 1000px;
+  overflow: hidden;
+}
+
+.popup img {
+  width: 1000px;
+  height: 1000px;
+  cursor: pointer;
+  overflow: scroll;
+}
+
+span {
+  z-index: 99999;
+  cursor: pointer;
+  font-size: 28px;
+  font-weight: 700;
+  background: #0ebeff;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+/*End style*/
