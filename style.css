@@ -3,14 +3,14 @@
 }
 
 .popup figure {
-  width: 1000px;
-  height: 1000px;
+  width: 698;
+  /* height: 1653px; */
   overflow: hidden;
 }
 
 .popup img {
   width: 1000px;
-  height: 1000px;
+  /* height: 1000px; */
   cursor: pointer;
   overflow: scroll;
 }
