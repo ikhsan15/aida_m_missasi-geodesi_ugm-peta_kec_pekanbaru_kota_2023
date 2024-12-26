@@ -1,4 +1,4 @@
-Peta kec. Pekanbaru Kota, Kota Pekanbaru, Provinsi Riau Thaun 2023
+Peta kec. Pekanbaru Kota, Kota Pekanbaru, Provinsi Riau Tahun 2023
 
 Dirancang oleh ,
 
