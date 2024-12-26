@@ -1,8 +1,8 @@
-Peta kec. Pekanbaru Kota, Kota Pekanbaru, Provinsi Riau Tahun 2023
+Peta kec. Pekanbaru Kota, Kota Pekanbaru, Provinsi Riau Tahun 2023<br><br>
 
-Dirancang oleh ,
+Dirancang oleh ,<br>
 
-<b>Nama         : Aida Maliyatullah Missasi</b>
-<b>Jurusan      : Geodesi</b>
+<b>Nama         : Aida Maliyatullah Missasi</b><br>
+<b>Jurusan      : Geodesi</b><br>
 <b>Universitas  : Universitas Gadjah Mada</b>
 
